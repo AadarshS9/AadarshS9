@@ -1,6 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AadarshS9)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AadarshS9&style=for-the-badge)
 
 
 <!--
