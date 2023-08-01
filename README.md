@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=AadarshS9)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 
 <!--
 **AadarshS9/AadarshS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
