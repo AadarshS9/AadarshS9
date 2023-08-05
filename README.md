@@ -1,4 +1,7 @@
-### Hi there 👋
+![Header](./[github-header-image.png])
+
+
+
 ![](https://komarev.com/ghpvc/?username=AadarshS9&style=for-the-badge)
 
 
