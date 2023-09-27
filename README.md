@@ -2,7 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile+🙏;Thank+You+For+Visiting+☯)](https://git.io/typing-svg)
 
+[![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)
+
 ![](https://komarev.com/ghpvc/?username=AadarshS9&style=for-the-badge)
+
+
+
 
 
 <!--
