@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile+🙏;Thank+You+For+Visiting+☯)](https://git.io/typing-svg)
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
-[![forthebadge](./ayy-lesgoo.svg)
+![](https://komarev.com/ghpvc/?username=AadarshS9&style=for-the-badge) 
 
-![](https://komarev.com/ghpvc/?username=AadarshS9&style=for-the-badge)
+![forthebadge](./ayy-lesgoo.svg)
+
+
 
 
 <!--
