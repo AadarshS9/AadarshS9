@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile+🙏;Thank+You+For+Visiting+☯)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile+🙏;Thank+You+For+Visiting+☯)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=AadarshS9&style=for-the-badge) 
 
