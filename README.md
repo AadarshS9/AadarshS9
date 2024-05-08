@@ -1,4 +1,5 @@
-![Header](./header.png)
+<img src="https://github.com/AadarshS9/AadarshS9/assets/94780937/9df6938c-4c08-4918-acc3-d1a7c948dfd7" width="1111">
+
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile+🙏;Thank+You+For+Visiting+☯)](https://git.io/typing-svg)
 
